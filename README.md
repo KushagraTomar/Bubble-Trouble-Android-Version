@@ -1,4 +1,4 @@
-# bubble_trouble_android
+# Bubble Trouble(Android Version)
 
 A new Flutter project.
 
